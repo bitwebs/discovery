@@ -1,15 +1,15 @@
-# @hyperswarm/discovery
+# @web4/discovery
 
-The hyperswarm peer discovery module
+The BitSwarm peer discovery module
 
 ```
-npm install @hyperswarm/discovery
+npm install @web4/discovery
 ```
 
 ## Usage
 
 ``` js
-const discovery = require('@hyperswarm/discovery')
+const discovery = require('@web4/discovery')
 const crypto = require('crypto')
 
 const d = discovery()
